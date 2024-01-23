@@ -10,4 +10,4 @@ Shoot: Spacebar
 
 As a player progresses through the level, they will experience sounds tied to thrusting, ship collisions, lasers being fired, and laser collisions with the asteroids. The game is also set up to get increasingly harder with each round. The number of asteroids and how fast they move increases with each level the player beats.
 
-***The sounds folder needs to exist in the same directory as the HTML file in order to play this game with the audio.
+***The sounds folder needs to exist in the same directory as the HTML file in order to play this game with the audio. Make sure to extract sounds.rar into the same directory as the HTML file.
